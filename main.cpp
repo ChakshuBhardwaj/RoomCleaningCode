@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    const float SmallRoomPrice{25.0};
+    const float SmallRoomPrice{30.0};
     const float LargeRoomPrice{35.0};
     const float TaxRate{0.06};
     const int Validity{30};
